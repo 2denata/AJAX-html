@@ -1,0 +1,88 @@
+{
+    "alat" : [
+        {
+            "jenis" : "gitar",
+            "nama": "Pasifica",
+            "harga": 3200000,
+            "gambar": "pasifica.jpg",
+            "deskripsi" : "Awalnya dirancang atas kolaborasi Yamaha Guitar Development (YGD)dan custom shop kami di Los Angeles, gitar Pacifica ini menawarkan performa profesional dan beragam ekspresi tone sejak tahun 1990."
+        },
+        {
+            "jenis": "gitar",
+            "nama": "REVSTAR",
+            "harga": 6760000,
+            "gambar": "revstar.jpg",
+            "deskripsi" : "Revstar memiliki tampilan yang terinspirasi sepeda motor café racer. Untuk pemain yang mencari gaya atau suara baru, Revstar memiliki opsi pickup switching yang versatile."
+        },
+        {
+            "jenis": "gitar",
+            "nama": "RGX",
+            "harga": 3370000,
+            "gambar": "rgx.jpg",
+            "deskripsi" : "Seri RGX menawarkan gaya dan spesifikasi untuk pemain yang agresif. Lehernya yang lebih tipis sangat cocok untuk latihan gitar yang intens dan humbucker yang dipilih secara khusus menghasilkan nada yang jelas, kuat, dan modern."
+        },
+        {
+            "jenis": "bass",
+            "nama": "BBNE2",
+            "harga": 60595000,
+            "gambar": "bbne2.jpg",
+            "deskripsi" : "Nathan East telah muncul di album yang tak terhitung jumlahnya dan telah melakukan tur dengan beberapa nama terbesar dalam dunia musik. Jadi wajar saja bahwa bass unggulan Nathan harus menghasilkan nada dan fleksibilitas yang siap untuk berbagai macam pertunjukan."
+        },
+        {
+            "jenis": "bass",
+            "nama": "Attitude Limited 3",
+            "harga": 62800000,
+            "gambar": "attitude-limited3.jpg",
+            "deskripsi" : "Attitude yang legendaris dari Billy Sheehan terlahir kembali. Dibuat di Yamaha Music Craft, Bass buatan tangan Attitude Limited 3 menonjolkan suara Billy yang dibawa ke level yang baru, dengan karakteristik yang disempurnakan. Tersedia dalam warna Sonic Blue dan Attitude classic Black yang sensasional."
+        },
+        {
+            "jenis": "bass",
+            "nama": "TRBJP2",
+            "harga": 70000000,
+            "gambar": "trbjp2.jpg",
+            "deskripsi" : "Sangat cocok untuk permainan yang luar biasa oleh penciptanya, model John Pattitucci TRBJP2 menawarkan spesifikasi khusus yang luar biasa dan konstruksi premium untuk menciptakan bass yang siap untuk digunakan di mana saja."
+        },
+        {
+            "jenis": "piano",
+            "nama": "YUS5",
+            "harga": 120000000,
+            "gambar": "YUS5.jpg",
+            "deskripsi" : "Ekspresi yang utuh mengingatkan pada grand piano."
+        },
+        {
+            "jenis": "piano",
+            "nama": "U3",
+            "harga": 135000000,
+            "gambar": "U3.jpg",
+            "deskripsi" : "Seri berstandar dunia yang telah menjadi sempurna selama beberapa dekade."
+        },
+        {
+            "jenis": "piano",
+            "nama": "JX113T",
+            "harga": 95000000,
+            "gambar": "JX113T.jpg",
+            "deskripsi" : "Ukuran ringkas yang dirancang dengan filosofi piano Yamaha."
+        },
+        {
+            "jenis": "drum",
+            "nama": "PHX",
+            "harga": 50000000,
+            "gambar": "PHX.jpg",
+            "deskripsi" : "Kami mendefinisikan kembali apa yang disebut perangkat drum mewah saat kami memperkenalkan Recording Custom pada tahun 1970-an. Dengan pengenalan PHX, kami menetapkan bar yang semakin lebih tinggi dengan menciptakan alat musik yang unggul untuk para drummer."
+        },
+        {
+            "jenis": "drum",
+            "nama": "RYDEEN",
+            "harga": 45000000,
+            "gambar": "RYDEEN.jpg",
+            "deskripsi" : "New Entry Drum Set Akustik RYDEEN."
+        },
+        {
+            "jenis": "drum",
+            "nama": "Stage Custom Birch",
+            "harga": 75000000,
+            "gambar": "Stage-Custom-Birch.jpg",
+            "deskripsi" : "Dengan diluncurkannya Stage Custom pada tahun 1995, YAMAHA sekali lagi menetapkan standar nilai dan suara. Stage Custom baru terbuat dari kayu birch 100%, dengan bagian metal part yang ditingkatkan kualitasnya."
+        }
+    ]
+}
