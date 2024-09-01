@@ -1,3 +1,6 @@
+![label](https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 # Asynchronous Web using AJAX
 This project is a website that showcases various musical instruments, utilizing AJAX to dynamically load data without needing to refresh the page. AJAX (Asynchronous JavaScript and XML) allows for asynchronous data retrieval from the server, enabling users to view and filter products seamlessly without interruption.
 
